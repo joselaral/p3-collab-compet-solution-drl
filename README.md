@@ -78,5 +78,5 @@ results
 trained_data
 - optimized_weights_ddqn.pth: Trained weights using
 
-P3 Collaboration and Competition Report.pdf
+Report.pdf
 - Final report
